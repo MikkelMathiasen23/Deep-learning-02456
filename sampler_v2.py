@@ -1,3 +1,4 @@
+#The code for this version of the imbalanced dataset sampler are based on the code found here: https://github.com/ufoym/imbalanced-dataset-sampler
 import torch
 import torch.utils.data
 import torchvision
